@@ -15,12 +15,14 @@ Processes involved:
 • Analysis
 
 Datasets:
+
 • Loan Application Dataset
 • Credit Bureau Dataset
 • Credit Card Dataset
 • Previous Loan Application Dataset
 
 Instruction to Run Code:
+
 • Download four Datasets from https://drive.google.com/drive/folders/1ni6ABr423eddRWm9njLzkCe3Jffdt5rO?usp=sharing
 • Value of variable “path” should be changed to location where all 4 datasets are downloaded.
 • Import libraries: pandas, numpy, os, scipy.stats & re
